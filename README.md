@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadinesalem&label=Profile%20views&color=0e75b6&style=flat" alt="nadinesalem" /> </p>
 
-- i'm currently working on **pollitaea**
+- 🗳️ i'm currently working on **pollitaea**
 
 - 🧠 i’m currently learning **swift**
 
